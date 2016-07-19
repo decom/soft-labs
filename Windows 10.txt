@@ -1,0 +1,51 @@
+7-zip (x64) - Versão 15.14 - (Build 2015-12-31)
+Adobe Acrobat Reader DC - Português - Versão 2015.016.20045
+Adobe Flash Player 10 Plugin - Versão 10.0.45.2
+Arduino - Versão 1.6.7
+Astah Community - Versão 7_0_0
+Atom - Versão 1.4.1
+Blender - Versão 2.77.1
+Bonjour - Versão 2.0.4.0 ----------------- não encontrado no iniciar
+Bricx Command Center - Versão 3.3 (Build 3.3.8.9)
+Business Analytics Platform
+CircuitMaker 6 Student - Versão 6.2c
+CodeBlocks (x86) - Versão 13.12
+DAEMON Tools Lite - Versão 10.2.0.0115
+Data Integration
+Dia - Versão 0.97.2
+Eclipse - Php, cpp, jee, java
+FusionInventory Agent (x64) - Versão 2.3.9 ----------------- não encontrado no menu iniciar
+Git - Versão 2.7.0
+GlassFish Server Open Source - Versão 4.1.1 ---------------- não encontrado no menu iniciar
+Google Chrome - Versão 51.0.2704.103
+Java 8 Update 91 (x64) - Versão 8.0.910.15
+Java SE Development Kit 8 Update 71 (x64) - Versão 8.0.710.15
+Kaspersky Security Center Network Agent - Versão 10.2.434 -------------- não encontrado  no menu iniciar
+LEGO Mindstorms NXT Software - Versão 2.0.114.0
+LibreOffice - Versão 5.0.4.2
+LTspice IV - Versão 4.23i
+Mplabx - Versão 3.35
+ModelSim-Altera Starter - Versão 10.1d
+MongoDB - Versão 3.2.1 ----------------- não encontrado no menu iniciar
+MySQL Workbench - Versão 6.3.6
+NetBeans IDE - Versão 8.1
+Nodist - Versão 0.7.0.0
+Notepad++ - Versão 6.9
+Octave - Versão 4.0.1
+OlapCube - Versão 4.3.7.0
+Oracle VM VirtualBox - Versão 5.0.14
+picsimlab plugin
+Portugol Studio - Versão 2.5
+PostGIS Shapefile and DBF Loader Exporter - Versão 2.0
+Quartus II (x86 e x64) - Versão 13.0sp1
+Robomongo - Versão 0.8.5
+Scilab (x64) - Versão 5.5.2
+SQL Server 2014 Management Studio - Versão 12.0.2000.8
+SQL Server Express
+Sqldeveloper - Versão 4.1.3
+Talend
+Toad Data Modeler - Versão 5.4.9.2
+Visual Studio 2010
+WampServer - Versão 2.5
+WireShark (x64) - Versão 2.0.3
+XMind 7 - Versão R3.6.1.201512240104
