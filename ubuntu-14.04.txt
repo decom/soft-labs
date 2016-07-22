@@ -1,11 +1,14 @@
 Atom - 1.8.0
 Blender - 2.68.0
 Cisco Packet Tracer Student - 7.0.0.0202
+Eclipse Neon - 4.6.0
 Firefox - 47.0
 gawk - 4.0.1
 Google Chrome - 51.0.2704.106
+Java JRE 1.8.0
 Libre Office - 4.2.8.2
 Octave - 4.0.0
+openjdk - 7
 pgAdmin III - 1.18.1
 Portugol Studio - 2.2
 Python - 2.7.6
