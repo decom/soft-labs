@@ -8,6 +8,7 @@ Libre Office - 4.2.8.2
 Octave - 4.0.0
 pgAdmin III - 1.18.1
 Portugol Studio - 2.2
+postgresql-9.3
 Python - 2.7.6
 Python 3 - 3.4.3
 R - 3.0.2
