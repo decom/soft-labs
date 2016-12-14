@@ -7,11 +7,12 @@ gawk - 4.0.1
 Google Chrome - 51.0.2704.106
 Java JRE 1.8.0
 Libre Office - 4.2.8.2
+NetBeans - 7.0.1
 Octave - 4.0.0
 openjdk - 7
 pgAdmin III - 1.18.1
 Portugol Studio - 2.2
-postgresql-9.3
+postgresql-9.3 #User: postgres #Password: 123456
 Python - 2.7.6
 Python 3 - 3.4.3
 R - 3.0.2
