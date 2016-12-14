@@ -1,0 +1,53 @@
+7-zip (x64) -  15.14 - (Build 2015-12-31)
+Adobe Acrobat Reader DC - Português -  2015.016.20045
+Adobe Flash Player 10 Plugin -  10.0.45.2
+Arduino -  1.6.7
+Astah Community -  7.0.0
+Atom -  1.4.1
+Blender -  2.77.1
+Bonjour -  2.0.4.0 
+Bricx Command Center -  3.3 (Build 3.3.8.9)
+Business Analytics Platform
+CircuitMaker 6 Student -  6.2c
+CodeBlocks (x86) -  13.12
+DAEMON Tools Lite -  10.2.0.0115
+Data Integration
+Dia -  0.97.2
+Eclipse - Php, cpp, jee, java
+Filezilla Client - 3.19.0
+FusionInventory Agent (x64) -  2.3.9 
+Git -  2.7.0
+GlassFish Server Open Source -  4.1.1 
+Google Chrome -  51.0.2704.103
+Java 8 Update 91 (x64) -  8.0.910.15
+Java SE Development Kit 8 Update 71 (x64) -  8.0.710.15
+Kaspersky Security Center Network Agent -  10.2.434 
+LEGO Mindstorms NXT Software -  2.0.114.0
+LibreOffice -  5.0.4.2
+LTspice IV -  4.23i
+Mplabx -  3.35
+ModelSim-Altera Starter -  10.1d
+MongoDB -  3.2.1 
+MySQL Workbench -  6.3.6
+NetBeans IDE -  8.1
+Nodist -  0.7.0.0
+Notepad++ -  6.9
+Octave -  4.0.1
+OlapCube -  4.3.7.0
+Oracle VM VirtualBox -  5.0.14
+picsimlab plugin
+Portugol Studio -  2.5
+PostGIS Shapefile and DBF Loader Exporter -  2.0
+Quartus II (x86 e x64) -  13.0sp1
+Robomongo -  0.8.5
+Scilab (x64) -  5.5.2
+SQL Server 2014 Management Studio -  12.0.2000.8
+SQL Server Express
+Sqldeveloper -  4.1.3
+Sublime Text 3 - Buil 3114
+Talend
+Toad Data Modeler -  5.4.9.2
+Visual Studio 2010
+WampServer -  2.5
+WireShark (x64) -  2.0.3
+XMind 7 -  R3.6.1.201512240104
