@@ -2,7 +2,7 @@ Atom - 1.12.7
 Blender - 2.68.0
 Cisco Packet Tracer Student - 7.0.0.0202
 Eclipse Neon - 4.6.0
-Firefox - 47.0
+Firefox - 50.1.0
 freeglut-3.0.0
 gawk - 4.0.1
 glew - 2.0.0
