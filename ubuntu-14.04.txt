@@ -23,6 +23,7 @@ Portugol Studio - 2.2
 postgresql-9.3 #User: postgres #Password: 123456
 Python - 2.7.6
 Python 3 - 3.4.3
+Qgis - 2.18.1
 R - 3.0.2
 Robomongo - 0.9.0
 Sublime Text - 3114
