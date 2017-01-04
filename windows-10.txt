@@ -3,51 +3,72 @@ Adobe Acrobat Reader DC - Português -  2015.016.20045
 Adobe Flash Player 10 Plugin -  10.0.45.2
 Arduino -  1.6.7
 Astah Community -  7.0.0
-Atom -  1.4.1
+Atom -  1.12.7
 Blender -  2.77.1
 Bonjour -  2.0.4.0 
 Bricx Command Center -  3.3 (Build 3.3.8.9)
 Business Analytics Platform
 CircuitMaker 6 Student -  6.2c
+CMake - 3.7.1
 CodeBlocks (x86) -  13.12
+Cygwin (x64) - 2.877
 DAEMON Tools Lite -  10.2.0.0115
 Data Integration
 Dia -  0.97.2
-Eclipse - Php, cpp, jee, java
+Eclipse Java Neon - 4.6.0
+Emu48 (Calculadoras) - 1.41
 Filezilla Client - 3.19.0
-FusionInventory Agent (x64) -  2.3.9 
+Freeglut 3.0.0 
 Git -  2.7.0
+GitKraken 1.9.3
 GlassFish Server Open Source -  4.1.1 
+glew - 2.0.0
+glfw - 3.2.1
 Google Chrome -  51.0.2704.103
+HP Prime Virtual Calculator - 2014 3 31
+Java 3D - 1.5.2
 Java 8 Update 91 (x64) -  8.0.910.15
-Java SE Development Kit 8 Update 71 (x64) -  8.0.710.15
-Kaspersky Security Center Network Agent -  10.2.434 
+Java SE Development Kit 8 Update 71 (x64) -  8.0.710.15 
 LEGO Mindstorms NXT Software -  2.0.114.0
 LibreOffice -  5.0.4.2
 LTspice IV -  4.23i
+Make - 3.81
 Mplabx -  3.35
 ModelSim-Altera Starter -  10.1d
 MongoDB -  3.2.1 
+MyOpenLab - 3.9.1
 MySQL Workbench -  6.3.6
-NetBeans IDE -  8.1
+NetBeans IDE -  8.2
+Node.js 7.2.1
 Nodist -  0.7.0.0
-Notepad++ -  6.9
+Notepad++ -  7.2.2
 Octave -  4.0.1
 OlapCube -  4.3.7.0
 Oracle VM VirtualBox -  5.0.14
+Paint.NET 4.0.13
+PCWeb Designer - 2.7.5.0
+pgAdmin III - 1.22.1
+pgAdmin 4 - 1.1
 picsimlab plugin
 Portugol Studio -  2.5
 PostGIS Shapefile and DBF Loader Exporter -  2.0
+postgresql - 9.5.1 #User: postgres #Password: 123456 #port:5432
+postgresql - 9.6.1 #User: postgres #Password: 123456 #port:5433
+Python - 2.7.12
+Python3 - 3.5.2
+QGIS 'Las Palmas' - 2.18.2
 Quartus II (x86 e x64) -  13.0sp1
+R - 3.3.1
 Robomongo -  0.8.5
+SceneBuilder - 8.3.0
 Scilab (x64) -  5.5.2
+soil - July 7, 2008
 SQL Server 2014 Management Studio -  12.0.2000.8
 SQL Server Express
 Sqldeveloper -  4.1.3
 Sublime Text 3 - Buil 3114
 Talend
 Toad Data Modeler -  5.4.9.2
-Visual Studio 2010
 WampServer -  2.5
 WireShark (x64) -  2.0.3
 XMind 7 -  R3.6.1.201512240104
