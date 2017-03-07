@@ -9,6 +9,7 @@ Bonjour -  2.0.4.0
 Bricx Command Center -  3.3 (Build 3.3.8.9)
 Business Analytics Platform
 CircuitMaker 6 Student -  6.2c
+CCS Compiler
 CMake - 3.7.1
 CodeBlocks (x86) -  13.12
 Cygwin (x64) - 2.877
@@ -33,7 +34,8 @@ LEGO Mindstorms NXT Software -  2.0.114.0
 LibreOffice -  5.0.4.2
 LTspice IV -  4.23i
 Make - 3.81
-Mplabx -  3.35
+MplabX - 2.10
+MplabX -  3.35
 ModelSim-Altera Starter -  10.1d
 MongoDB -  3.2.1 
 MyOpenLab - 3.9.1
@@ -54,6 +56,7 @@ Portugol Studio -  2.5
 PostGIS Shapefile and DBF Loader Exporter -  2.0
 postgresql - 9.5.1 #User: postgres #Password: 123456 #port:5432
 postgresql - 9.6.1 #User: postgres #Password: 123456 #port:5433
+Proteus - 8.6 SP2 (Build 23525)
 Python - 2.7.12
 Python3 - 3.5.2
 QGIS 'Las Palmas' - 2.18.2
@@ -71,4 +74,5 @@ Talend
 Toad Data Modeler -  5.4.9.2
 WampServer -  2.5
 WireShark (x64) -  2.0.3
+XC8 Compiler - 1.40
 XMind 7 -  R3.6.1.201512240104
