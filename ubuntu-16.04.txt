@@ -1,0 +1,54 @@
+Anaconda3 - 4.4.0
+Arduino IDE - 1.8.3
+Astah Community - 7.1
+Atom - 1.18.0
+Blender - 2.76.0
+cabal - 2.0.0
+Cisco Packet Tracer Student - 7.0.0.0306
+Code::Blocks IDE - 16.01
+Dia - 0.97.3
+Eclipse IDE for C/C++ Developers - Oxygen 
+Eclipse IDE for Java Developers - Oxygen - 4.7.0
+Firefox - 54.0.0
+freeglut-3.0.0
+gawk - 4.1.3
+ghc - 8.2.0
+glew - 2.0.0
+glfw - 3.1.2
+gimp - 2.8.16
+git - 2.7.4
+Google Chrome - 59.0.3071.115
+Libre Office - 5.1.6.2
+MongoDB - 3.2.15
+MySQL - Ver 14.14 Distrib 5.7.18
+	#User: root #Password: 123456
+MySQL-Workbench - 6.3.6
+NetBeans - 8.2 - 
+	Gradle Suport - 1.4.1(plugin)
+	C/C++ - 1.30.6.1(plugin)
+node - 8.1.4
+nvm - 0.33.2
+Octave -  4.0.0
+openjdk-8-jdk - 1.8.0
+openjdk-9-jdk - 1.9.0
+oracle-java8-jdk 
+Oracle SQL Developer - 17.2.0
+Oracle SQL Developer Data Modeler - 17.2.0
+pgAdmin III - 1.22.0
+Pinta - 1.6
+pip - 9.0.1
+Portugol Studio - 2.6
+PostgreSQL (psql) - 9.5.7 
+	#User: postgres #Password: 123456
+Python - 3.6.1 :: Anaconda 4.4.0
+Python2 - 2.7.12
+Python3 - 3.5.2
+Qgis - 2.8.6
+R - 3.4.1
+Robo 3T - 1.1.1
+Scilab - 5.5.2
+Sublime Text - Build 3126
+SWI-Prolog - 7.4.2
+VirtualBox - 5.1.22
+virtualenvwrapper - 4.7.2
+wireshark - 2.2.6
